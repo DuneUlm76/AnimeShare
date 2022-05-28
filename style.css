@@ -1,0 +1,35 @@
+body{
+    background: linear-gradient(orange, orangered);
+    background-repeat: no-repeat;
+}
+a{
+	text-align: center;
+	text-decoration: none;
+	color: black;
+}
+/* nav */
+nav.nav{
+	background-color: #353535;
+}
+
+nav.nav ul{
+	padding: 0px;
+	overflow: hidden;
+}
+
+nav.nav li{
+	list-style-type: none;
+	float: left;
+}
+
+nav.nav a{
+    font-weight: bold;
+	display: inline-block;
+	text-decoration: none;
+	padding: 20px 30px;
+	color: rgb(201, 201, 201);
+
+
+}
+
+/* End nav */
